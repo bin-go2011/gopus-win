@@ -2,8 +2,8 @@
 
 ## Download
 
-*. https://jmeubank.github.io/tdm-gcc/download/
-*. https://github.com/xiph/opus
+* https://jmeubank.github.io/tdm-gcc/download/
+* https://github.com/xiph/opus
 
 ## Build
 1. set GOOS=windows set GOARCH=amd64 set CGO_ENABLED=1
